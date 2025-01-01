@@ -1,4 +1,4 @@
-FROM redis:6.2-alpine
+FROM registry.cn-shanghai.aliyuncs.com/library/redis:6.2
 
 EXPOSE 6379
 
